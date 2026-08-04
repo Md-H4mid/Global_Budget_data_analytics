@@ -1,4 +1,4 @@
-# Global_Budget_data_analytics
+# Global Budget Data Analytics
 🚀 **Key Features**
 * **Automated Data Ingestion**: Transforms raw historical budget records into an optimized, structured MySQL database.
 * **Interactive Dashboard**: Enables dynamic visual exploration of financial trends using a production-ready Streamlit interface.
